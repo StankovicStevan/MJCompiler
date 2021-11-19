@@ -1,0 +1,59 @@
+INFO  18:50:00,272 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\program.mj
+INFO  18:50:00,315 - #2 program
+INFO  18:50:00,316 - #20 MJProgram
+INFO  18:50:00,316 - #20 int
+INFO  18:50:00,317 - #20 x
+INFO  18:50:00,317 - #11 +
+ERROR 18:50:00,317 - 
+Sintaksna greska na liniji 2
+INFO  18:50:00,317 - #8 ,
+INFO  18:50:00,317 - #20 a
+INFO  18:50:00,317 - #8 ,
+INFO  18:50:00,318 - #20 b
+ERROR 18:50:00,318 - Izvrsen oporavak do ; u liniji 2
+INFO  18:50:00,319 - #8 ,
+INFO  18:50:00,319 - #20 b
+INFO  18:50:00,319 - #8 ,
+INFO  18:50:00,319 - #20 c
+INFO  18:50:00,319 - #5 ;
+INFO  18:50:00,319 - #20 int
+INFO  18:50:00,320 - #20 y
+INFO  18:50:00,320 - #5 ;
+INFO  18:50:00,320 - #20 char
+INFO  18:50:00,320 - #20 z
+INFO  18:50:00,320 - #5 ;
+INFO  18:50:00,320 - #20 char
+INFO  18:50:00,320 - #20 nije_niz
+INFO  18:50:00,321 - #8 ,
+INFO  18:50:00,321 - #20 jeste_niz
+INFO  18:50:00,321 - #14 [
+INFO  18:50:00,321 - #15 ]
+INFO  18:50:00,321 - #8 ,
+INFO  18:50:00,321 - #20 opet_nije_niz
+INFO  18:50:00,321 - #5 ;
+INFO  18:50:00,321 - #3 {
+INFO  18:50:00,321 - #20 int
+INFO  18:50:00,321 - #20 k
+INFO  18:50:00,322 - #6 (
+INFO  18:50:00,322 - #7 )
+INFO  18:50:00,322 - #20 int
+INFO  18:50:00,323 - #20 c
+INFO  18:50:00,323 - #5 ;
+INFO  18:50:00,323 - #3 {
+INFO  18:50:00,323 - #20 c
+INFO  18:50:00,324 - #12 =
+INFO  18:50:00,324 - #19 1
+INFO  18:50:00,325 - #5 ;
+INFO  18:50:00,325 - #10 return
+INFO  18:50:00,325 - #20 c
+INFO  18:50:00,325 - #11 +
+INFO  18:50:00,326 - #19 2
+INFO  18:50:00,326 - #5 ;
+INFO  18:50:00,326 - #4 }
+INFO  18:50:00,326 - #13 void
+INFO  18:50:00,327 - #20 main
+INFO  18:50:00,328 - #6 (
+INFO  18:50:00,328 - #43 /
+ERROR 18:50:00,328 - 
+Sintaksna greska na liniji 13
+ERROR 18:50:00,328 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

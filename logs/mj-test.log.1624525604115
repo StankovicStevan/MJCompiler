@@ -1,0 +1,161 @@
+INFO  11:04:09,083 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\program.mj
+INFO  11:04:09,144 - #2 program
+INFO  11:04:09,144 - #20 MJProgram
+INFO  11:04:09,144 - #20 int
+INFO  11:04:09,146 - #20 a
+INFO  11:04:09,147 - #8 ,
+INFO  11:04:09,147 - #20 b
+INFO  11:04:09,148 - #8 ,
+INFO  11:04:09,148 - #20 c
+INFO  11:04:09,148 - #5 ;
+INFO  11:04:09,148 - #3 {
+INFO  11:04:09,149 - #13 void
+INFO  11:04:09,150 - #20 main
+INFO  11:04:09,151 - #6 (
+INFO  11:04:09,152 - #7 )
+INFO  11:04:09,152 - #20 int
+INFO  11:04:09,153 - #20 x
+INFO  11:04:09,153 - #8 ,
+INFO  11:04:09,153 - #20 y
+INFO  11:04:09,153 - #8 ,
+INFO  11:04:09,153 - #20 z
+INFO  11:04:09,153 - #5 ;
+INFO  11:04:09,153 - #3 {
+INFO  11:04:09,154 - #20 x
+INFO  11:04:09,154 - #12 =
+INFO  11:04:09,155 - #20 y
+INFO  11:04:09,156 - #11 +
+INFO  11:04:09,156 - #19 5
+INFO  11:04:09,157 - #5 ;
+INFO  11:04:09,157 - #9 print
+INFO  11:04:09,158 - #6 (
+INFO  11:04:09,158 - #20 x
+INFO  11:04:09,158 - #8 ,
+INFO  11:04:09,158 - #19 2
+INFO  11:04:09,158 - #7 )
+INFO  11:04:09,159 - #5 ;
+INFO  11:04:09,159 - #4 }
+INFO  11:04:09,159 - #4 }
+INFO  11:04:09,161 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclListsStmt(
+    NoDeclLists(
+    ) [NoDeclLists]
+    VarDeclListD(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclMulti(
+          VarDeclMulti(
+            VarDeclSingle(
+              VarDeclIdentStmt(
+               a
+              ) [VarDeclIdentStmt]
+            ) [VarDeclSingle]
+            VarDeclIdentStmt(
+             b
+            ) [VarDeclIdentStmt]
+          ) [VarDeclMulti]
+          VarDeclIdentStmt(
+           c
+          ) [VarDeclIdentStmt]
+        ) [VarDeclMulti]
+      ) [VarDecl]
+    ) [VarDeclListD]
+  ) [DeclListsStmt]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidMethodTypeName(
+      ) [VoidMethodTypeName]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormParam(
+      ) [NoFormParam]
+      VarDeclListHelpStmt(
+        NoVarDeclListHelpStmt(
+        ) [NoVarDeclListHelpStmt]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclMulti(
+            VarDeclMulti(
+              VarDeclSingle(
+                VarDeclIdentStmt(
+                 x
+                ) [VarDeclIdentStmt]
+              ) [VarDeclSingle]
+              VarDeclIdentStmt(
+               y
+              ) [VarDeclIdentStmt]
+            ) [VarDeclMulti]
+            VarDeclIdentStmt(
+             z
+            ) [VarDeclIdentStmt]
+          ) [VarDeclMulti]
+        ) [VarDecl]
+      ) [VarDeclListHelpStmt]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          MatchedStmt(
+            DesignatorStmt(
+              AssignopExpr(
+                DesignatorSingle(
+                 x
+                ) [DesignatorSingle]
+                Equalop(
+                ) [Equalop]
+                TermExpStmt(
+                  AddopTermListStmt(
+                    AddopTermListTerm(
+                      TermStmtOnly(
+                        NoDesignatorAct(
+                          DesignatorSingle(
+                           y
+                          ) [DesignatorSingle]
+                        ) [NoDesignatorAct]
+                      ) [TermStmtOnly]
+                    ) [AddopTermListTerm]
+                    AddopPlus(
+                    ) [AddopPlus]
+                    TermStmtOnly(
+                      NumConstF(
+                       5
+                      ) [NumConstF]
+                    ) [TermStmtOnly]
+                  ) [AddopTermListStmt]
+                ) [TermExpStmt]
+              ) [AssignopExpr]
+            ) [DesignatorStmt]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          Print(
+            TermExpStmt(
+              AddopTermListTerm(
+                TermStmtOnly(
+                  NoDesignatorAct(
+                    DesignatorSingle(
+                     x
+                    ) [DesignatorSingle]
+                  ) [NoDesignatorAct]
+                ) [TermStmtOnly]
+              ) [AddopTermListTerm]
+            ) [TermExpStmt]
+           2
+          ) [Print]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:04:09,163 - ===================================
+INFO  11:04:09,171 - Parsiranje uspesno zavrseno

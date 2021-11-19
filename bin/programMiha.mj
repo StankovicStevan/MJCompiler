@@ -1,0 +1,104 @@
+program MJProgram
+	const char r = 'z';
+	bool p;
+	char j;
+	const bool q = true;
+	const bool j = 3; 										//losi tipovi
+	int x,blabla- , gl+;
+	int y;
+	const int z = 3, a=2;
+	int d[];
+	const char e = 3; 										//losi tiipovi
+	const int d = 3; 										//vec deklarisano
+{
+	
+	int k (int c) int c; int x; char f[]; int q[]; {
+		c = 1+;
+		r = 'z'; 											//nije promenljiva ni element niza
+		d = 3; 												//nekompatibilni
+		d[0] = 3; 
+		f[0] = 3; 											//nekompatibilni
+		d[0] = f[0]; 										//nekompatibilni
+		d[0] = q[0];
+		c++;
+		f = new int[3]; 									//nekompatibilni
+		x = new int[3]; 									//nekompatibilni
+		f = new char[1];					
+		//break; 												//van 
+		//do{
+		//continue;
+		//}while(z);
+		return c+2;
+		//x = (c ? f[0] : d[0]); 								//nekompatibilni 2. i 3.
+		//c = (d >= q ? 2 : 3); 								//nizovi se mogu porediti samo sa == ili !=
+		if (d>=q) c = 2; else c = 3;
+		if (d!=q) c = 2; else c = 3;
+	}
+	
+	int x() int p; { //vec deklarisano x + nema return
+		//do{
+		//	break;
+		//} while(3);
+		//continue; 											//van
+		//switch(x){
+		//	case 3: break;
+		//}
+		znj = 'c'; 											//znj nedeklarisano
+	}
+	
+	void nista() {
+		
+	}
+	
+	
+	char b() char f; {
+		print(nista); 										//nista nije promenljiva ili konst
+		x = 'a'; 											//nekompatibilni
+		x = p; 												//nekompatibilni
+		x = f; 												//nekompatibilni
+		y = 2 + (3 - 5);
+		x = - 'c' + 2 + 3; 									//minus ispred char
+		x= -2 + 'c'; 										//nekompatibilni
+		f = 'b' + 3; 										//nekompatibilni
+		print(3 + p); 										//nekompatibilni
+		read(znj); 											//znj nije definisan 
+		read(x);
+		print('c' , 3);
+		print(string); 										//string nije definisan
+		return;
+	}
+	
+	void main() int c; char x; {
+		p++; 												//nije int
+		q--; 												//nije promenljiva
+		q = 3; 												//nije promenljiva
+		nj = 2; 											//nije desinisan
+		x = y + 2; 											//nekompatibilni
+		y = r + 3; 											//nekompatibilni
+		print(y);
+		p++; 												//nije int
+		return;
+		//x = (c ? true : false); 							//nekompatibilni
+		//c = (d[0] ? 2+c : 3);
+		//c = ((x? 1 : 0) ? 2 : 3);
+		//x = (c == 2 ? 'a' : 'b');
+		//x = (c == true ? 'a' : 'b'); 						//losi tipovi u uslovu
+		nista = 3; 											//nije promenljiva niti element niza
+		c = d; 												//nekompatibilni
+		d = c; 												//nekompatibilni
+		d[3] = d; 											//nekompatibilni
+		read(d[0]);
+		read(nista); 										//los tip argumenta
+		print(d[0]);
+		print(blabla); 										//nije definisan
+		d[0]++;
+		c = d[0];
+		x = d[0]; 											//nekompatibilni
+		c = c + (y * y - 1) * y - (3 % 2 + 3 * 2 - 3); 
+		
+		read(d); 											//los arg
+		print(d); 											//los argument
+		//c = int? 2:3; 										//nije promenljiva ni konst
+		c = 2 + int; 										//nije promenljiva ni konst
+	}
+}

@@ -1,0 +1,409 @@
+INFO  18:20:01,615 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\program.mj
+INFO  18:20:01,653 - #2 program
+INFO  18:20:01,653 - #20 MJProgram
+INFO  18:20:01,653 - #20 int
+INFO  18:20:01,654 - #20 x
+INFO  18:20:01,655 - #11 +
+ERROR 18:20:01,655 - 
+Sintaksna greska na liniji 2
+INFO  18:20:01,655 - #8 ,
+INFO  18:20:01,655 - #20 a
+INFO  18:20:01,655 - #8 ,
+INFO  18:20:01,656 - #20 b
+ERROR 18:20:01,656 - Izvrsen oporavak do ; u liniji 2
+INFO  18:20:01,657 - #5 ;
+INFO  18:20:01,657 - #20 int
+INFO  18:20:01,658 - #20 y
+INFO  18:20:01,658 - #5 ;
+INFO  18:20:01,658 - #20 a
+INFO  18:20:01,658 - #20 d
+INFO  18:20:01,658 - #5 ;
+INFO  18:20:01,658 - #20 asjkhdkajs
+INFO  18:20:01,658 - #20 akjsldhl
+INFO  18:20:01,659 - #5 ;
+INFO  18:20:01,659 - #20 chr
+INFO  18:20:01,659 - #20 zz
+INFO  18:20:01,659 - #5 ;
+INFO  18:20:01,659 - #20 char
+INFO  18:20:01,659 - #20 z
+INFO  18:20:01,659 - #5 ;
+INFO  18:20:01,659 - #3 {
+INFO  18:20:01,659 - #20 int
+INFO  18:20:01,659 - #20 k
+INFO  18:20:01,660 - #6 (
+INFO  18:20:01,660 - #7 )
+INFO  18:20:01,660 - #20 int
+INFO  18:20:01,661 - #20 c
+INFO  18:20:01,661 - #5 ;
+INFO  18:20:01,661 - #3 {
+INFO  18:20:01,661 - #20 c
+INFO  18:20:01,661 - #12 =
+INFO  18:20:01,661 - #19 1
+INFO  18:20:01,662 - #5 ;
+INFO  18:20:01,663 - #10 return
+INFO  18:20:01,663 - #20 c
+INFO  18:20:01,663 - #11 +
+INFO  18:20:01,663 - #19 2
+INFO  18:20:01,664 - #5 ;
+INFO  18:20:01,664 - #4 }
+INFO  18:20:01,664 - #20 int
+INFO  18:20:01,664 - #20 main
+INFO  18:20:01,664 - #6 (
+INFO  18:20:01,664 - #7 )
+INFO  18:20:01,665 - #3 {
+INFO  18:20:01,665 - #20 y
+INFO  18:20:01,665 - #12 =
+INFO  18:20:01,665 - #19 2
+INFO  18:20:01,665 - #5 ;
+INFO  18:20:01,665 - #20 x
+INFO  18:20:01,665 - #12 =
+INFO  18:20:01,665 - #20 y
+INFO  18:20:01,665 - #11 +
+INFO  18:20:01,665 - #19 2
+INFO  18:20:01,665 - #5 ;
+INFO  18:20:01,666 - #20 y
+INFO  18:20:01,666 - #12 =
+INFO  18:20:01,666 - #20 k
+INFO  18:20:01,666 - #6 (
+INFO  18:20:01,666 - #7 )
+INFO  18:20:01,667 - #11 +
+INFO  18:20:01,667 - #19 3
+INFO  18:20:01,667 - #5 ;
+INFO  18:20:01,667 - #9 print
+INFO  18:20:01,667 - #6 (
+INFO  18:20:01,667 - #20 y
+INFO  18:20:01,668 - #7 )
+INFO  18:20:01,668 - #5 ;
+INFO  18:20:01,668 - #10 return
+INFO  18:20:01,668 - #19 0
+INFO  18:20:01,668 - #5 ;
+INFO  18:20:01,668 - #4 }
+INFO  18:20:01,668 - #4 }
+INFO  18:20:01,670 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclListsStmt(
+    DeclListsStmt(
+      DeclListsStmt(
+        DeclListsStmt(
+          DeclListsStmt(
+            DeclListsStmt(
+              NoDeclLists(
+              ) [NoDeclLists]
+              VarDeclListD(
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  VarDeclMulti(
+                    VarDeclMulti(
+                      VarDeclSingle(
+                        ErrorVarStmt(
+                        ) [ErrorVarStmt]
+                      ) [VarDeclSingle]
+                      VarDeclIdentStmt(
+                       a
+                      ) [VarDeclIdentStmt]
+                    ) [VarDeclMulti]
+                    VarDeclIdentStmt(
+                     b
+                    ) [VarDeclIdentStmt]
+                  ) [VarDeclMulti]
+                ) [VarDecl]
+              ) [VarDeclListD]
+            ) [DeclListsStmt]
+            VarDeclListD(
+              VarDecl(
+                Type(
+                 int
+                ) [Type]
+                VarDeclSingle(
+                  VarDeclIdentStmt(
+                   y
+                  ) [VarDeclIdentStmt]
+                ) [VarDeclSingle]
+              ) [VarDecl]
+            ) [VarDeclListD]
+          ) [DeclListsStmt]
+          VarDeclListD(
+            VarDecl(
+              Type(
+               a
+              ) [Type]
+              VarDeclSingle(
+                VarDeclIdentStmt(
+                 d
+                ) [VarDeclIdentStmt]
+              ) [VarDeclSingle]
+            ) [VarDecl]
+          ) [VarDeclListD]
+        ) [DeclListsStmt]
+        VarDeclListD(
+          VarDecl(
+            Type(
+             asjkhdkajs
+            ) [Type]
+            VarDeclSingle(
+              VarDeclIdentStmt(
+               akjsldhl
+              ) [VarDeclIdentStmt]
+            ) [VarDeclSingle]
+          ) [VarDecl]
+        ) [VarDeclListD]
+      ) [DeclListsStmt]
+      VarDeclListD(
+        VarDecl(
+          Type(
+           chr
+          ) [Type]
+          VarDeclSingle(
+            VarDeclIdentStmt(
+             zz
+            ) [VarDeclIdentStmt]
+          ) [VarDeclSingle]
+        ) [VarDecl]
+      ) [VarDeclListD]
+    ) [DeclListsStmt]
+    VarDeclListD(
+      VarDecl(
+        Type(
+         char
+        ) [Type]
+        VarDeclSingle(
+          VarDeclIdentStmt(
+           z
+          ) [VarDeclIdentStmt]
+        ) [VarDeclSingle]
+      ) [VarDecl]
+    ) [VarDeclListD]
+  ) [DeclListsStmt]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        WithMethodTypeName(
+          Type(
+           int
+          ) [Type]
+        ) [WithMethodTypeName]
+       k
+        NoFormParam(
+        ) [NoFormParam]
+        VarDeclListHelpStmt(
+          NoVarDeclListHelpStmt(
+          ) [NoVarDeclListHelpStmt]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclSingle(
+              VarDeclIdentStmt(
+               c
+              ) [VarDeclIdentStmt]
+            ) [VarDeclSingle]
+          ) [VarDecl]
+        ) [VarDeclListHelpStmt]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            MatchedStmt(
+              DesignatorStmt(
+                DesignatorStatementStmt(
+                  DesignatorSingle(
+                   c
+                  ) [DesignatorSingle]
+                  AssignopExpr(
+                    Equalop(
+                    ) [Equalop]
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          NumConstF(
+                           1
+                          ) [NumConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [AssignopExpr]
+                ) [DesignatorStatementStmt]
+              ) [DesignatorStmt]
+            ) [MatchedStmt]
+          ) [Statements]
+          MatchedStmt(
+            Return(
+              TermExpStmt(
+                AddopTermListStmt(
+                  AddopTermListTerm(
+                    TermStmtOnly(
+                      NoDesignatorAct(
+                        DesignatorSingle(
+                         c
+                        ) [DesignatorSingle]
+                      ) [NoDesignatorAct]
+                    ) [TermStmtOnly]
+                  ) [AddopTermListTerm]
+                  AddopPlus(
+                  ) [AddopPlus]
+                  TermStmtOnly(
+                    NumConstF(
+                     2
+                    ) [NumConstF]
+                  ) [TermStmtOnly]
+                ) [AddopTermListStmt]
+              ) [TermExpStmt]
+            ) [Return]
+          ) [MatchedStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      WithMethodTypeName(
+        Type(
+         int
+        ) [Type]
+      ) [WithMethodTypeName]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDeclListHelpStmt(
+      ) [NoVarDeclListHelpStmt]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                MatchedStmt(
+                  DesignatorStmt(
+                    DesignatorStatementStmt(
+                      DesignatorSingle(
+                       y
+                      ) [DesignatorSingle]
+                      AssignopExpr(
+                        Equalop(
+                        ) [Equalop]
+                        TermExpStmt(
+                          AddopTermListTerm(
+                            TermStmtOnly(
+                              NumConstF(
+                               2
+                              ) [NumConstF]
+                            ) [TermStmtOnly]
+                          ) [AddopTermListTerm]
+                        ) [TermExpStmt]
+                      ) [AssignopExpr]
+                    ) [DesignatorStatementStmt]
+                  ) [DesignatorStmt]
+                ) [MatchedStmt]
+              ) [Statements]
+              MatchedStmt(
+                DesignatorStmt(
+                  DesignatorStatementStmt(
+                    DesignatorSingle(
+                     x
+                    ) [DesignatorSingle]
+                    AssignopExpr(
+                      Equalop(
+                      ) [Equalop]
+                      TermExpStmt(
+                        AddopTermListStmt(
+                          AddopTermListTerm(
+                            TermStmtOnly(
+                              NoDesignatorAct(
+                                DesignatorSingle(
+                                 y
+                                ) [DesignatorSingle]
+                              ) [NoDesignatorAct]
+                            ) [TermStmtOnly]
+                          ) [AddopTermListTerm]
+                          AddopPlus(
+                          ) [AddopPlus]
+                          TermStmtOnly(
+                            NumConstF(
+                             2
+                            ) [NumConstF]
+                          ) [TermStmtOnly]
+                        ) [AddopTermListStmt]
+                      ) [TermExpStmt]
+                    ) [AssignopExpr]
+                  ) [DesignatorStatementStmt]
+                ) [DesignatorStmt]
+              ) [MatchedStmt]
+            ) [Statements]
+            MatchedStmt(
+              DesignatorStmt(
+                DesignatorStatementStmt(
+                  DesignatorSingle(
+                   y
+                  ) [DesignatorSingle]
+                  AssignopExpr(
+                    Equalop(
+                    ) [Equalop]
+                    TermExpStmt(
+                      AddopTermListStmt(
+                        AddopTermListTerm(
+                          TermStmtOnly(
+                            DesignatorAct(
+                              DesignatorSingle(
+                               k
+                              ) [DesignatorSingle]
+                              NoActuals(
+                              ) [NoActuals]
+                            ) [DesignatorAct]
+                          ) [TermStmtOnly]
+                        ) [AddopTermListTerm]
+                        AddopPlus(
+                        ) [AddopPlus]
+                        TermStmtOnly(
+                          NumConstF(
+                           3
+                          ) [NumConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListStmt]
+                    ) [TermExpStmt]
+                  ) [AssignopExpr]
+                ) [DesignatorStatementStmt]
+              ) [DesignatorStmt]
+            ) [MatchedStmt]
+          ) [Statements]
+          MatchedStmt(
+            NoNumPrint(
+              TermExpStmt(
+                AddopTermListTerm(
+                  TermStmtOnly(
+                    NoDesignatorAct(
+                      DesignatorSingle(
+                       y
+                      ) [DesignatorSingle]
+                    ) [NoDesignatorAct]
+                  ) [TermStmtOnly]
+                ) [AddopTermListTerm]
+              ) [TermExpStmt]
+            ) [NoNumPrint]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          Return(
+            TermExpStmt(
+              AddopTermListTerm(
+                TermStmtOnly(
+                  NumConstF(
+                   0
+                  ) [NumConstF]
+                ) [TermStmtOnly]
+              ) [AddopTermListTerm]
+            ) [TermExpStmt]
+          ) [Return]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:20:01,671 - ===================================
+ERROR 18:20:01,675 - Nije definisan tip asjkhdkajs na liniji 4
+ERROR 18:20:01,675 - Nije definisan simbol x na liniji 16
+ERROR 18:20:01,676 - Nije definisan simbol k na liniji 17

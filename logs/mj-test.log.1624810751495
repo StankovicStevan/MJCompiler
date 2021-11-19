@@ -1,0 +1,49 @@
+INFO  18:17:19,338 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  18:17:19,338 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  18:17:19,368 - #2 program
+INFO  18:17:19,368 - #20 test301
+INFO  18:17:19,368 - #17 const
+INFO  18:17:19,369 - #20 int
+INFO  18:17:19,369 - #20 nula
+INFO  18:17:19,369 - #12 =
+INFO  18:17:19,369 - #19 0
+INFO  18:17:19,370 - #5 ;
+INFO  18:17:19,370 - #17 const
+INFO  18:17:19,371 - #20 int
+INFO  18:17:19,371 - #20 jedan
+INFO  18:17:19,371 - #12 =
+INFO  18:17:19,371 - #19 1
+INFO  18:17:19,371 - #5 ;
+INFO  18:17:19,371 - #17 const
+INFO  18:17:19,371 - #20 int
+INFO  18:17:19,371 - #20 pet
+INFO  18:17:19,372 - #12 =
+INFO  18:17:19,372 - #19 5
+INFO  18:17:19,372 - #5 ;
+INFO  18:17:19,372 - #20 int
+INFO  18:17:19,372 - #20 niz
+INFO  18:17:19,372 - #14 [
+INFO  18:17:19,372 - #15 ]
+INFO  18:17:19,372 - #5 ;
+INFO  18:17:19,372 - #20 char
+INFO  18:17:19,373 - #20 nizch
+INFO  18:17:19,373 - #14 [
+INFO  18:17:19,373 - #15 ]
+INFO  18:17:19,373 - #5 ;
+INFO  18:17:19,373 - #3 {
+INFO  18:17:19,373 - #13 void
+INFO  18:17:19,374 - #20 main
+INFO  18:17:19,374 - #6 (
+INFO  18:17:19,374 - #7 )
+INFO  18:17:19,375 - #20 int
+INFO  18:17:19,375 - #20 bodovi
+INFO  18:17:19,375 - #8 ,
+INFO  18:17:19,376 - #20 char
+INFO  18:17:19,376 - #20 char
+ERROR 18:17:19,376 - 
+Sintaksna greska na liniji 14
+INFO  18:17:19,377 - #5 ;
+INFO  18:17:19,377 - #3 {
+INFO  18:17:19,377 - #20 bodovi
+INFO  18:17:19,378 - #12 =
+ERROR 18:17:19,378 - Izvrsen oporavak do ; u liniji 14

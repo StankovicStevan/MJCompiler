@@ -1,0 +1,9 @@
+INFO  11:08:37,477 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\program.mj
+INFO  11:08:37,515 - #2 program
+INFO  11:08:37,516 - #20 MJProgram
+INFO  11:08:37,516 - #20 int
+INFO  11:08:37,516 - #20 x
+INFO  11:08:37,517 - #11 +
+ERROR 11:08:37,517 - 
+Sintaksna greska na liniji 2
+ERROR 11:08:37,517 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2

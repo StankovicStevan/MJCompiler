@@ -1,0 +1,277 @@
+INFO  22:18:20,972 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  22:18:21,005 - #2 program
+INFO  22:18:21,005 - #20 test301
+INFO  22:18:21,005 - #17 const
+INFO  22:18:21,007 - #20 int
+INFO  22:18:21,007 - #20 nula
+INFO  22:18:21,008 - #12 =
+INFO  22:18:21,009 - #19 0
+INFO  22:18:21,009 - #5 ;
+INFO  22:18:21,010 - #17 const
+INFO  22:18:21,011 - #20 int
+INFO  22:18:21,011 - #20 jedan
+INFO  22:18:21,012 - #12 =
+INFO  22:18:21,012 - #19 1
+INFO  22:18:21,012 - #5 ;
+INFO  22:18:21,012 - #17 const
+INFO  22:18:21,013 - #20 int
+INFO  22:18:21,013 - #20 pet
+INFO  22:18:21,013 - #12 =
+INFO  22:18:21,013 - #19 5
+INFO  22:18:21,013 - #5 ;
+INFO  22:18:21,013 - #20 int
+INFO  22:18:21,014 - #20 niz
+INFO  22:18:21,014 - #14 [
+INFO  22:18:21,014 - #15 ]
+INFO  22:18:21,015 - #5 ;
+INFO  22:18:21,016 - #20 char
+INFO  22:18:21,017 - #20 nizch
+INFO  22:18:21,017 - #14 [
+INFO  22:18:21,017 - #15 ]
+INFO  22:18:21,017 - #5 ;
+INFO  22:18:21,017 - #3 {
+INFO  22:18:21,017 - #13 void
+INFO  22:18:21,018 - #20 main
+INFO  22:18:21,018 - #6 (
+INFO  22:18:21,018 - #7 )
+INFO  22:18:21,019 - #20 int
+INFO  22:18:21,019 - #20 bodovi
+INFO  22:18:21,019 - #5 ;
+INFO  22:18:21,020 - #3 {
+INFO  22:18:21,020 - #20 bodovi
+INFO  22:18:21,021 - #12 =
+INFO  22:18:21,021 - #19 0
+INFO  22:18:21,021 - #5 ;
+INFO  22:18:21,022 - #20 bodovi
+INFO  22:18:21,022 - #34 ++
+INFO  22:18:21,022 - #5 ;
+INFO  22:18:21,023 - #20 bodovi
+INFO  22:18:21,023 - #12 =
+INFO  22:18:21,023 - #20 bodovi
+INFO  22:18:21,023 - #11 +
+INFO  22:18:21,023 - #20 jedan
+INFO  22:18:21,024 - #5 ;
+INFO  22:18:21,024 - #20 bodovi
+INFO  22:18:21,024 - #12 =
+INFO  22:18:21,024 - #20 bodovi
+INFO  22:18:21,024 - #51 *
+ERROR 22:18:21,024 - 
+Sintaksna greska na liniji 19
+INFO  22:18:21,024 - #20 pet
+INFO  22:18:21,025 - #5 ;
+INFO  22:18:21,025 - #20 bodovi
+INFO  22:18:21,025 - #35 --
+INFO  22:18:21,025 - #5 ;
+ERROR 22:18:21,025 - Izvrsen oporavak do ; u liniji 19
+INFO  22:18:21,026 - #9 print
+INFO  22:18:21,026 - #6 (
+INFO  22:18:21,026 - #20 bodovi
+INFO  22:18:21,026 - #7 )
+INFO  22:18:21,026 - #5 ;
+INFO  22:18:21,026 - #20 niz
+INFO  22:18:21,026 - #12 =
+INFO  22:18:21,026 - #33 new
+INFO  22:18:21,026 - #20 int
+INFO  22:18:21,026 - #14 [
+ERROR 22:18:21,026 - 
+Sintaksna greska na liniji 24
+INFO  22:18:21,026 - #19 3
+INFO  22:18:21,027 - #15 ]
+INFO  22:18:21,027 - #5 ;
+INFO  22:18:21,027 - #20 niz
+INFO  22:18:21,027 - #14 [
+INFO  22:18:21,027 - #20 nula
+ERROR 22:18:21,027 - Izvrsen oporavak do ; u liniji 24
+ERROR 22:18:21,027 - 
+Sintaksna greska na liniji 25
+INFO  22:18:21,027 - #15 ]
+INFO  22:18:21,027 - #12 =
+INFO  22:18:21,027 - #20 jedan
+INFO  22:18:21,027 - #5 ;
+INFO  22:18:21,027 - #20 niz
+INFO  22:18:21,027 - #14 [
+INFO  22:18:21,027 - #19 1
+ERROR 22:18:21,027 - Izvrsen oporavak do ; u liniji 25
+ERROR 22:18:21,027 - 
+Sintaksna greska na liniji 26
+INFO  22:18:21,027 - #15 ]
+INFO  22:18:21,027 - #12 =
+INFO  22:18:21,028 - #19 2
+INFO  22:18:21,028 - #5 ;
+INFO  22:18:21,028 - #20 niz
+INFO  22:18:21,028 - #14 [
+INFO  22:18:21,028 - #20 niz
+ERROR 22:18:21,028 - Izvrsen oporavak do ; u liniji 26
+ERROR 22:18:21,028 - 
+Sintaksna greska na liniji 27
+INFO  22:18:21,028 - #14 [
+INFO  22:18:21,028 - #20 jedan
+INFO  22:18:21,028 - #15 ]
+INFO  22:18:21,028 - #15 ]
+INFO  22:18:21,028 - #12 =
+INFO  22:18:21,028 - #20 niz
+INFO  22:18:21,028 - #14 [
+INFO  22:18:21,028 - #20 niz
+INFO  22:18:21,028 - #14 [
+INFO  22:18:21,028 - #19 0
+INFO  22:18:21,029 - #15 ]
+INFO  22:18:21,029 - #15 ]
+INFO  22:18:21,029 - #51 *
+INFO  22:18:21,029 - #19 3
+INFO  22:18:21,029 - #5 ;
+INFO  22:18:21,029 - #20 bodovi
+INFO  22:18:21,029 - #12 =
+INFO  22:18:21,029 - #20 niz
+ERROR 22:18:21,029 - Izvrsen oporavak do ; u liniji 27
+INFO  22:18:21,029 - #14 [
+INFO  22:18:21,029 - #19 2
+ERROR 22:18:21,029 - 
+Sintaksna greska na liniji 28
+INFO  22:18:21,029 - #15 ]
+INFO  22:18:21,029 - #43 /
+INFO  22:18:21,029 - #20 niz
+INFO  22:18:21,029 - #14 [
+INFO  22:18:21,029 - #19 0
+INFO  22:18:21,029 - #15 ]
+INFO  22:18:21,030 - #5 ;
+INFO  22:18:21,030 - #9 print
+INFO  22:18:21,030 - #6 (
+INFO  22:18:21,030 - #20 bodovi
+ERROR 22:18:21,030 - Izvrsen oporavak do ; u liniji 28
+INFO  22:18:21,030 - #7 )
+INFO  22:18:21,030 - #5 ;
+INFO  22:18:21,030 - #9 print
+INFO  22:18:21,030 - #6 (
+INFO  22:18:21,030 - #20 niz
+INFO  22:18:21,030 - #14 [
+INFO  22:18:21,030 - #19 2
+ERROR 22:18:21,030 - 
+Sintaksna greska na liniji 30
+INFO  22:18:21,030 - #15 ]
+INFO  22:18:21,030 - #7 )
+INFO  22:18:21,030 - #5 ;
+INFO  22:18:21,030 - #20 nizch
+INFO  22:18:21,030 - #12 =
+INFO  22:18:21,030 - #33 new
+ERROR 22:18:21,030 - Izvrsen oporavak do ; u liniji 30
+INFO  22:18:21,031 - #20 char
+INFO  22:18:21,031 - #14 [
+ERROR 22:18:21,031 - 
+Sintaksna greska na liniji 33
+INFO  22:18:21,031 - #19 3
+INFO  22:18:21,031 - #15 ]
+INFO  22:18:21,031 - #5 ;
+INFO  22:18:21,031 - #20 nizch
+INFO  22:18:21,031 - #14 [
+INFO  22:18:21,031 - #19 0
+ERROR 22:18:21,031 - Izvrsen oporavak do ; u liniji 33
+ERROR 22:18:21,031 - 
+Sintaksna greska na liniji 34
+INFO  22:18:21,031 - #15 ]
+INFO  22:18:21,031 - #12 =
+INFO  22:18:21,031 - #23 a
+INFO  22:18:21,031 - #5 ;
+INFO  22:18:21,031 - #20 nizch
+INFO  22:18:21,033 - #14 [
+INFO  22:18:21,033 - #20 jedan
+ERROR 22:18:21,033 - Izvrsen oporavak do ; u liniji 34
+ERROR 22:18:21,033 - 
+Sintaksna greska na liniji 35
+INFO  22:18:21,033 - #15 ]
+INFO  22:18:21,033 - #12 =
+INFO  22:18:21,033 - #23 b
+INFO  22:18:21,033 - #5 ;
+INFO  22:18:21,033 - #20 nizch
+INFO  22:18:21,034 - #14 [
+INFO  22:18:21,034 - #20 pet
+ERROR 22:18:21,034 - Izvrsen oporavak do ; u liniji 35
+ERROR 22:18:21,034 - 
+Sintaksna greska na liniji 36
+INFO  22:18:21,034 - #41 -
+INFO  22:18:21,034 - #19 3
+INFO  22:18:21,034 - #15 ]
+INFO  22:18:21,034 - #12 =
+INFO  22:18:21,034 - #23 c
+INFO  22:18:21,034 - #5 ;
+INFO  22:18:21,034 - #9 print
+INFO  22:18:21,034 - #6 (
+INFO  22:18:21,034 - #20 nizch
+ERROR 22:18:21,035 - Izvrsen oporavak do ; u liniji 36
+INFO  22:18:21,035 - #14 [
+INFO  22:18:21,035 - #19 1
+ERROR 22:18:21,035 - 
+Sintaksna greska na liniji 37
+INFO  22:18:21,035 - #15 ]
+INFO  22:18:21,035 - #7 )
+INFO  22:18:21,035 - #5 ;
+INFO  22:18:21,035 - #9 print
+INFO  22:18:21,035 - #6 (
+INFO  22:18:21,035 - #20 nizch
+ERROR 22:18:21,035 - Izvrsen oporavak do ; u liniji 37
+INFO  22:18:21,035 - #14 [
+INFO  22:18:21,035 - #20 jedan
+ERROR 22:18:21,035 - 
+Sintaksna greska na liniji 38
+INFO  22:18:21,035 - #51 *
+INFO  22:18:21,035 - #19 2
+INFO  22:18:21,035 - #15 ]
+INFO  22:18:21,035 - #7 )
+INFO  22:18:21,035 - #5 ;
+INFO  22:18:21,036 - #20 bodovi
+INFO  22:18:21,036 - #12 =
+INFO  22:18:21,036 - #20 bodovi
+ERROR 22:18:21,036 - Izvrsen oporavak do ; u liniji 38
+INFO  22:18:21,036 - #11 +
+INFO  22:18:21,036 - #6 (
+INFO  22:18:21,036 - #20 pet
+INFO  22:18:21,036 - #51 *
+ERROR 22:18:21,036 - 
+Sintaksna greska na liniji 41
+INFO  22:18:21,036 - #20 jedan
+INFO  22:18:21,036 - #41 -
+INFO  22:18:21,036 - #19 1
+INFO  22:18:21,036 - #7 )
+INFO  22:18:21,036 - #51 *
+INFO  22:18:21,036 - #20 bodovi
+INFO  22:18:21,036 - #41 -
+INFO  22:18:21,036 - #6 (
+INFO  22:18:21,036 - #19 3
+INFO  22:18:21,036 - #44 %
+INFO  22:18:21,036 - #19 2
+INFO  22:18:21,037 - #11 +
+INFO  22:18:21,037 - #19 3
+INFO  22:18:21,037 - #51 *
+INFO  22:18:21,037 - #19 2
+INFO  22:18:21,037 - #41 -
+INFO  22:18:21,037 - #19 3
+INFO  22:18:21,037 - #7 )
+INFO  22:18:21,037 - #5 ;
+INFO  22:18:21,037 - #9 print
+INFO  22:18:21,037 - #6 (
+INFO  22:18:21,037 - #20 bodovi
+ERROR 22:18:21,037 - Izvrsen oporavak do ; u liniji 41
+INFO  22:18:21,037 - #7 )
+INFO  22:18:21,037 - #5 ;
+INFO  22:18:21,037 - #30 read
+INFO  22:18:21,037 - #6 (
+INFO  22:18:21,037 - #20 bodovi
+INFO  22:18:21,037 - #7 )
+INFO  22:18:21,038 - #5 ;
+INFO  22:18:21,038 - #21 if
+INFO  22:18:21,038 - #6 (
+INFO  22:18:21,038 - #20 bodovi
+INFO  22:18:21,038 - #44 %
+INFO  22:18:21,038 - #19 2
+INFO  22:18:21,039 - #45 ==
+INFO  22:18:21,039 - #19 0
+INFO  22:18:21,040 - #7 )
+INFO  22:18:21,040 - #20 bodovi
+INFO  22:18:21,040 - #12 =
+INFO  22:18:21,040 - #20 bodovi
+INFO  22:18:21,041 - #11 +
+INFO  22:18:21,041 - #19 10
+INFO  22:18:21,041 - #5 ;
+INFO  22:18:21,041 - #21 if
+INFO  22:18:21,041 - #6 (
+INFO  22:18:21,041 - #24 0
+INFO  22:18:21,041 - #7 )

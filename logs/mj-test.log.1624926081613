@@ -1,0 +1,203 @@
+INFO  02:21:00,706 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  02:21:00,707 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  02:21:00,745 - #2 program
+INFO  02:21:00,745 - #20 ifovi
+INFO  02:21:00,745 - #3 {
+INFO  02:21:00,746 - #13 void
+INFO  02:21:00,747 - #20 main
+INFO  02:21:00,747 - #6 (
+INFO  02:21:00,747 - #7 )
+INFO  02:21:00,748 - #3 {
+INFO  02:21:00,748 - #21 if
+INFO  02:21:00,749 - #6 (
+INFO  02:21:00,749 - #24 true
+INFO  02:21:00,749 - #46 &&
+INFO  02:21:00,749 - #19 1
+INFO  02:21:00,750 - #45 ==
+INFO  02:21:00,750 - #19 1
+INFO  02:21:00,751 - #7 )
+INFO  02:21:00,752 - #3 {
+INFO  02:21:00,752 - #21 if
+INFO  02:21:00,752 - #6 (
+INFO  02:21:00,752 - #24 true
+INFO  02:21:00,752 - #7 )
+INFO  02:21:00,752 - #3 {
+INFO  02:21:00,752 - #9 print
+INFO  02:21:00,752 - #6 (
+INFO  02:21:00,752 - #23 m
+INFO  02:21:00,752 - #7 )
+INFO  02:21:00,753 - #5 ;
+INFO  02:21:00,753 - #4 }
+INFO  02:21:00,753 - #9 print
+INFO  02:21:00,753 - #6 (
+INFO  02:21:00,753 - #23 t
+INFO  02:21:00,753 - #7 )
+INFO  02:21:00,753 - #5 ;
+INFO  02:21:00,753 - #4 }
+INFO  02:21:00,754 - #22 else
+INFO  02:21:00,754 - #3 {
+INFO  02:21:00,754 - #9 print
+INFO  02:21:00,754 - #6 (
+INFO  02:21:00,754 - #23 e
+INFO  02:21:00,754 - #7 )
+INFO  02:21:00,754 - #5 ;
+INFO  02:21:00,754 - #4 }
+INFO  02:21:00,755 - #4 }
+INFO  02:21:00,755 - #4 }
+INFO  02:21:00,756 - Program(
+  ProgName(
+   ifovi
+  ) [ProgName]
+  NoDeclLists(
+  ) [NoDeclLists]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidMethodTypeName(
+      ) [VoidMethodTypeName]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDeclListHelpStmt(
+      ) [NoVarDeclListHelpStmt]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          IfCond(
+            Condition(
+              ConditionTermStmt(
+                CondTermAnd(
+                  CondTermFactStmt(
+                    CondFactExprStmt(
+                      TermExpStmt(
+                        AddopTermListTerm(
+                          TermStmtOnly(
+                            BoolConstF(
+                             true
+                            ) [BoolConstF]
+                          ) [TermStmtOnly]
+                        ) [AddopTermListTerm]
+                      ) [TermExpStmt]
+                    ) [CondFactExprStmt]
+                  ) [CondTermFactStmt]
+                  CondFactExprRelExprStmt(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          NumConstF(
+                           1
+                          ) [NumConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                    Equalsop(
+                    ) [Equalsop]
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          NumConstF(
+                           1
+                          ) [NumConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [CondFactExprRelExprStmt]
+                ) [CondTermAnd]
+              ) [ConditionTermStmt]
+            ) [Condition]
+            StatementListLR(
+              Statements(
+                Statements(
+                  NoStmt(
+                  ) [NoStmt]
+                  UnmachedStmt(
+                    UnmatchedIf(
+                      Condition(
+                        ConditionTermStmt(
+                          CondTermFactStmt(
+                            CondFactExprStmt(
+                              TermExpStmt(
+                                AddopTermListTerm(
+                                  TermStmtOnly(
+                                    BoolConstF(
+                                     true
+                                    ) [BoolConstF]
+                                  ) [TermStmtOnly]
+                                ) [AddopTermListTerm]
+                              ) [TermExpStmt]
+                            ) [CondFactExprStmt]
+                          ) [CondTermFactStmt]
+                        ) [ConditionTermStmt]
+                      ) [Condition]
+                      MatchedStmt(
+                        StatementListLR(
+                          Statements(
+                            NoStmt(
+                            ) [NoStmt]
+                            MatchedStmt(
+                              NoNumPrint(
+                                TermExpStmt(
+                                  AddopTermListTerm(
+                                    TermStmtOnly(
+                                      CharConstF(
+                                       m
+                                      ) [CharConstF]
+                                    ) [TermStmtOnly]
+                                  ) [AddopTermListTerm]
+                                ) [TermExpStmt]
+                              ) [NoNumPrint]
+                            ) [MatchedStmt]
+                          ) [Statements]
+                        ) [StatementListLR]
+                      ) [MatchedStmt]
+                    ) [UnmatchedIf]
+                  ) [UnmachedStmt]
+                ) [Statements]
+                MatchedStmt(
+                  NoNumPrint(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          CharConstF(
+                           t
+                          ) [CharConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [NoNumPrint]
+                ) [MatchedStmt]
+              ) [Statements]
+            ) [StatementListLR]
+            Else(
+            ) [Else]
+            StatementListLR(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                MatchedStmt(
+                  NoNumPrint(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          CharConstF(
+                           e
+                          ) [CharConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [NoNumPrint]
+                ) [MatchedStmt]
+              ) [Statements]
+            ) [StatementListLR]
+          ) [IfCond]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  02:21:00,758 - ===================================
+INFO  02:21:00,766 - Parsiranje uspesno zavrseno

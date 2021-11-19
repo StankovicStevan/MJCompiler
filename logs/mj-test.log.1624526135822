@@ -1,0 +1,42 @@
+INFO  11:06:45,697 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\program.mj
+INFO  11:06:45,741 - #2 program
+INFO  11:06:45,741 - #20 MJProgram
+INFO  11:06:45,741 - #20 int
+INFO  11:06:45,742 - #20 a
+INFO  11:06:45,743 - #8 ,
+INFO  11:06:45,743 - #20 b
+INFO  11:06:45,743 - #8 ,
+INFO  11:06:45,743 - #20 c
+INFO  11:06:45,743 - #5 ;
+INFO  11:06:45,743 - #3 {
+INFO  11:06:45,744 - #13 void
+INFO  11:06:45,744 - #20 main
+INFO  11:06:45,745 - #6 (
+INFO  11:06:45,745 - #7 )
+INFO  11:06:45,746 - #20 int
+INFO  11:06:45,746 - #20 x
+INFO  11:06:45,746 - #8 ,
+INFO  11:06:45,746 - #20 y
+INFO  11:06:45,746 - #8 ,
+INFO  11:06:45,746 - #20 z
+INFO  11:06:45,746 - #5 ;
+INFO  11:06:45,747 - #3 {
+INFO  11:06:45,747 - #20 x
+INFO  11:06:45,748 - #12 =
+INFO  11:06:45,748 - #20 y
+INFO  11:06:45,749 - #11 +
+INFO  11:06:45,750 - #19 5
+INFO  11:06:45,751 - #5 ;
+INFO  11:06:45,751 - #9 print
+INFO  11:06:45,752 - #6 (
+INFO  11:06:45,752 - #20 x
+INFO  11:06:45,752 - #8 ,
+INFO  11:06:45,752 - #19 2
+INFO  11:06:45,752 - #7 )
+INFO  11:06:45,752 - #5 ;
+INFO  11:06:45,752 - #4 }
+INFO  11:06:45,752 - #4 }
+INFO  11:06:45,753 - #43 /
+ERROR 11:06:45,753 - 
+Sintaksna greska na liniji 13
+ERROR 11:06:45,754 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

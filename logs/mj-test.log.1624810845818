@@ -1,0 +1,259 @@
+INFO  18:20:32,842 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  18:20:32,843 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  18:20:32,900 - #2 program
+INFO  18:20:32,900 - #20 test301
+INFO  18:20:32,901 - #17 const
+INFO  18:20:32,902 - #20 int
+INFO  18:20:32,902 - #20 nula
+INFO  18:20:32,903 - #12 =
+INFO  18:20:32,903 - #19 0
+INFO  18:20:32,903 - #5 ;
+INFO  18:20:32,904 - #17 const
+INFO  18:20:32,905 - #20 int
+INFO  18:20:32,905 - #20 jedan
+INFO  18:20:32,905 - #12 =
+INFO  18:20:32,905 - #19 1
+INFO  18:20:32,905 - #5 ;
+INFO  18:20:32,905 - #17 const
+INFO  18:20:32,905 - #20 int
+INFO  18:20:32,906 - #20 pet
+INFO  18:20:32,906 - #12 =
+INFO  18:20:32,906 - #19 5
+INFO  18:20:32,906 - #5 ;
+INFO  18:20:32,906 - #20 int
+INFO  18:20:32,906 - #20 niz
+INFO  18:20:32,906 - #14 [
+INFO  18:20:32,906 - #15 ]
+INFO  18:20:32,906 - #5 ;
+INFO  18:20:32,907 - #20 char
+INFO  18:20:32,908 - #20 nizch
+INFO  18:20:32,908 - #14 [
+INFO  18:20:32,908 - #15 ]
+INFO  18:20:32,908 - #5 ;
+INFO  18:20:32,908 - #3 {
+INFO  18:20:32,908 - #13 void
+INFO  18:20:32,909 - #20 main
+INFO  18:20:32,910 - #6 (
+INFO  18:20:32,910 - #7 )
+INFO  18:20:32,911 - #20 int
+INFO  18:20:32,911 - #20 bodovi
+INFO  18:20:32,911 - #8 ,
+INFO  18:20:32,912 - #20 char
+INFO  18:20:32,912 - #20 char
+ERROR 18:20:32,912 - 
+Sintaksna greska na liniji 14
+INFO  18:20:32,912 - #5 ;
+INFO  18:20:32,912 - #3 {
+INFO  18:20:32,912 - #20 bodovi
+INFO  18:20:32,913 - #12 =
+ERROR 18:20:32,913 - Izvrsen oporavak do ; u liniji 14
+INFO  18:20:32,915 - #19 3
+INFO  18:20:32,916 - #5 ;
+INFO  18:20:32,916 - #9 print
+INFO  18:20:32,917 - #6 (
+INFO  18:20:32,917 - #20 jedan
+INFO  18:20:32,917 - #7 )
+INFO  18:20:32,917 - #5 ;
+INFO  18:20:32,917 - #9 print
+INFO  18:20:32,918 - #6 (
+INFO  18:20:32,918 - #20 nula
+INFO  18:20:32,918 - #7 )
+INFO  18:20:32,918 - #5 ;
+INFO  18:20:32,918 - #9 print
+INFO  18:20:32,918 - #6 (
+INFO  18:20:32,918 - #20 bodovi
+INFO  18:20:32,918 - #7 )
+INFO  18:20:32,919 - #5 ;
+INFO  18:20:32,919 - #4 }
+INFO  18:20:32,919 - #4 }
+INFO  18:20:32,921 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  DeclListsStmt(
+    DeclListsStmt(
+      DeclListsStmt(
+        DeclListsStmt(
+          DeclListsStmt(
+            NoDeclLists(
+            ) [NoDeclLists]
+            ConstDeclListD(
+              ConstDeclList(
+                Type(
+                 int
+                ) [Type]
+               nula
+                NumConst(
+                 0
+                ) [NumConst]
+                NoConstDecl(
+                ) [NoConstDecl]
+              ) [ConstDeclList]
+            ) [ConstDeclListD]
+          ) [DeclListsStmt]
+          ConstDeclListD(
+            ConstDeclList(
+              Type(
+               int
+              ) [Type]
+             jedan
+              NumConst(
+               1
+              ) [NumConst]
+              NoConstDecl(
+              ) [NoConstDecl]
+            ) [ConstDeclList]
+          ) [ConstDeclListD]
+        ) [DeclListsStmt]
+        ConstDeclListD(
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+           pet
+            NumConst(
+             5
+            ) [NumConst]
+            NoConstDecl(
+            ) [NoConstDecl]
+          ) [ConstDeclList]
+        ) [ConstDeclListD]
+      ) [DeclListsStmt]
+      VarDeclListD(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclSingle(
+            VarDeclIdentStmt2(
+             niz
+            ) [VarDeclIdentStmt2]
+          ) [VarDeclSingle]
+        ) [VarDecl]
+      ) [VarDeclListD]
+    ) [DeclListsStmt]
+    VarDeclListD(
+      VarDecl(
+        Type(
+         char
+        ) [Type]
+        VarDeclSingle(
+          VarDeclIdentStmt2(
+           nizch
+          ) [VarDeclIdentStmt2]
+        ) [VarDeclSingle]
+      ) [VarDecl]
+    ) [VarDeclListD]
+  ) [DeclListsStmt]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidMethodTypeName(
+      ) [VoidMethodTypeName]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormParam(
+      ) [NoFormParam]
+      VarDeclListHelpStmt(
+        NoVarDeclListHelpStmt(
+        ) [NoVarDeclListHelpStmt]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclMulti(
+            VarDeclSingle(
+              VarDeclIdentStmt(
+               bodovi
+              ) [VarDeclIdentStmt]
+            ) [VarDeclSingle]
+            ErrorVarStmt(
+            ) [ErrorVarStmt]
+          ) [VarDeclMulti]
+        ) [VarDecl]
+      ) [VarDeclListHelpStmt]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              NoStmt(
+              ) [NoStmt]
+              MatchedStmt(
+                DesignatorStmt(
+                  AssignopExpr(
+                    DesignatorSingle(
+                     bodovi
+                    ) [DesignatorSingle]
+                    Equalop(
+                    ) [Equalop]
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          NumConstF(
+                           3
+                          ) [NumConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [AssignopExpr]
+                ) [DesignatorStmt]
+              ) [MatchedStmt]
+            ) [Statements]
+            MatchedStmt(
+              NoNumPrint(
+                TermExpStmt(
+                  AddopTermListTerm(
+                    TermStmtOnly(
+                      NoDesignatorAct(
+                        DesignatorSingle(
+                         jedan
+                        ) [DesignatorSingle]
+                      ) [NoDesignatorAct]
+                    ) [TermStmtOnly]
+                  ) [AddopTermListTerm]
+                ) [TermExpStmt]
+              ) [NoNumPrint]
+            ) [MatchedStmt]
+          ) [Statements]
+          MatchedStmt(
+            NoNumPrint(
+              TermExpStmt(
+                AddopTermListTerm(
+                  TermStmtOnly(
+                    NoDesignatorAct(
+                      DesignatorSingle(
+                       nula
+                      ) [DesignatorSingle]
+                    ) [NoDesignatorAct]
+                  ) [TermStmtOnly]
+                ) [AddopTermListTerm]
+              ) [TermExpStmt]
+            ) [NoNumPrint]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          NoNumPrint(
+            TermExpStmt(
+              AddopTermListTerm(
+                TermStmtOnly(
+                  NoDesignatorAct(
+                    DesignatorSingle(
+                     bodovi
+                    ) [DesignatorSingle]
+                  ) [NoDesignatorAct]
+                ) [TermStmtOnly]
+              ) [AddopTermListTerm]
+            ) [TermExpStmt]
+          ) [NoNumPrint]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:20:32,921 - ===================================
+INFO  18:20:32,929 - Konstanta je deklarisana na liniji 5
+INFO  18:20:32,929 - Konstanta je deklarisana na liniji 6
+INFO  18:20:32,929 - Konstanta je deklarisana na liniji 7
+ERROR 18:20:32,930 - Parsiranje NIJE uspesno zavrseno

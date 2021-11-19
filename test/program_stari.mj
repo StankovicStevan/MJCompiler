@@ -1,0 +1,26 @@
+program MJProgram
+	int x+, a, b, b, c; int y;
+	char z;
+	//const int pi = 3;
+	char nije_niz, jeste_niz[], opet_nije_niz;
+	int x,blabla- , gl+;
+{
+	
+	int k () int c; {
+		c = 1;
+		return c+2;
+	}
+	
+	int inc(int x) {
+		return x+1;
+	}
+	
+	void main() {
+		y = 2;
+		//y = 3 * pi;
+		y = inc(6) + a();
+		z = 'c';
+		print(y);
+		return;
+	}
+}

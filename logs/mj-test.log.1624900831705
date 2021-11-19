@@ -1,0 +1,133 @@
+INFO  19:20:21,635 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  19:20:21,636 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  19:20:21,687 - #2 program
+INFO  19:20:21,687 - #20 ifovi
+INFO  19:20:21,687 - #3 {
+INFO  19:20:21,687 - #13 void
+INFO  19:20:21,688 - #20 main
+INFO  19:20:21,688 - #6 (
+INFO  19:20:21,689 - #7 )
+INFO  19:20:21,689 - #3 {
+INFO  19:20:21,690 - #21 if
+INFO  19:20:21,690 - #6 (
+INFO  19:20:21,690 - #19 5
+INFO  19:20:21,691 - #38 >=
+INFO  19:20:21,691 - #19 3
+INFO  19:20:21,692 - #7 )
+INFO  19:20:21,692 - #3 {
+INFO  19:20:21,693 - #9 print
+INFO  19:20:21,693 - #6 (
+INFO  19:20:21,693 - #23 t
+INFO  19:20:21,693 - #7 )
+INFO  19:20:21,693 - #5 ;
+INFO  19:20:21,693 - #4 }
+INFO  19:20:21,694 - #22 else
+INFO  19:20:21,694 - #3 {
+INFO  19:20:21,694 - #9 print
+INFO  19:20:21,694 - #6 (
+INFO  19:20:21,694 - #23 e
+INFO  19:20:21,694 - #7 )
+INFO  19:20:21,695 - #5 ;
+INFO  19:20:21,695 - #4 }
+INFO  19:20:21,695 - #4 }
+INFO  19:20:21,695 - #4 }
+INFO  19:20:21,697 - Program(
+  ProgName(
+   ifovi
+  ) [ProgName]
+  NoDeclLists(
+  ) [NoDeclLists]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidMethodTypeName(
+      ) [VoidMethodTypeName]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDeclListHelpStmt(
+      ) [NoVarDeclListHelpStmt]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          IfCond(
+            Condition(
+              ConditionTermStmt(
+                CondTermFactStmt(
+                  CondFactExprRelExprStmt(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          NumConstF(
+                           5
+                          ) [NumConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                    Grteqop(
+                    ) [Grteqop]
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          NumConstF(
+                           3
+                          ) [NumConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [CondFactExprRelExprStmt]
+                ) [CondTermFactStmt]
+              ) [ConditionTermStmt]
+            ) [Condition]
+            StatementListLR(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                MatchedStmt(
+                  NoNumPrint(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          CharConstF(
+                           t
+                          ) [CharConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [NoNumPrint]
+                ) [MatchedStmt]
+              ) [Statements]
+            ) [StatementListLR]
+            Else(
+            ) [Else]
+            StatementListLR(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                MatchedStmt(
+                  NoNumPrint(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          CharConstF(
+                           e
+                          ) [CharConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [NoNumPrint]
+                ) [MatchedStmt]
+              ) [Statements]
+            ) [StatementListLR]
+          ) [IfCond]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:20:21,698 - ===================================
+INFO  19:20:21,706 - Parsiranje uspesno zavrseno

@@ -1,0 +1,46 @@
+program MJProgram
+	int a, b, c;
+	bool boo;
+{
+
+	int f() {
+		return 1000;
+	}
+	
+	void main() 
+		int x, y, z;
+		int q[];
+	{
+		y = 10;
+		
+		x = (2 + y) * 5;	//60
+		
+		z = 72;
+		
+		if (z > 50 && z < 75 && z < 100 || z == 0 || z == 1 && boo || a) print('T'); else print('F');
+		
+		//if (COND) THEN ELSE
+		
+		// COND
+		// THEN
+		// <jmp> -> (preskace else)
+		// <.>	<- (skokovi koji preskacu THEN (idu na else))
+		// ELSE
+		// <.>  <- (skok koji preskace else)
+
+	}
+	
+
+}
+
+//
+// enter 0, 3
+//
+// 1) stavi 2 na stek
+// 2) stavi y na stek
+// 3) stavi 5 na stek
+// 4) mul (pomnozi dve vrednosti sa vrha steka, stavi vrednost na stek)
+// 5) add (isto to)
+// 6) smesti vrednost sa steka u x
+// 
+// exit

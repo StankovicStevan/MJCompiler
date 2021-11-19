@@ -1,0 +1,120 @@
+INFO  20:37:25,436 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  20:37:25,437 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test301.mj
+INFO  20:37:25,484 - #2 program
+INFO  20:37:25,485 - #20 ifovi
+INFO  20:37:25,485 - #3 {
+INFO  20:37:25,486 - #13 void
+INFO  20:37:25,486 - #20 main
+INFO  20:37:25,487 - #6 (
+INFO  20:37:25,487 - #7 )
+INFO  20:37:25,488 - #3 {
+INFO  20:37:25,490 - #21 if
+INFO  20:37:25,491 - #6 (
+INFO  20:37:25,491 - #24 true
+INFO  20:37:25,491 - #7 )
+INFO  20:37:25,493 - #3 {
+INFO  20:37:25,493 - #9 print
+INFO  20:37:25,493 - #6 (
+INFO  20:37:25,493 - #23 t
+INFO  20:37:25,493 - #7 )
+INFO  20:37:25,494 - #5 ;
+INFO  20:37:25,494 - #4 }
+INFO  20:37:25,494 - #22 else
+INFO  20:37:25,495 - #3 {
+INFO  20:37:25,495 - #9 print
+INFO  20:37:25,495 - #6 (
+INFO  20:37:25,495 - #23 e
+INFO  20:37:25,495 - #7 )
+INFO  20:37:25,495 - #5 ;
+INFO  20:37:25,495 - #4 }
+INFO  20:37:25,495 - #4 }
+INFO  20:37:25,496 - #4 }
+INFO  20:37:25,497 - Program(
+  ProgName(
+   ifovi
+  ) [ProgName]
+  NoDeclLists(
+  ) [NoDeclLists]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidMethodTypeName(
+      ) [VoidMethodTypeName]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDeclListHelpStmt(
+      ) [NoVarDeclListHelpStmt]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          IfCond(
+            Condition(
+              ConditionTermStmt(
+                CondTermFactStmt(
+                  CondFactExprStmt(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          BoolConstF(
+                           true
+                          ) [BoolConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [CondFactExprStmt]
+                ) [CondTermFactStmt]
+              ) [ConditionTermStmt]
+            ) [Condition]
+            StatementListLR(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                MatchedStmt(
+                  NoNumPrint(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          CharConstF(
+                           t
+                          ) [CharConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [NoNumPrint]
+                ) [MatchedStmt]
+              ) [Statements]
+            ) [StatementListLR]
+            Else(
+            ) [Else]
+            StatementListLR(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                MatchedStmt(
+                  NoNumPrint(
+                    TermExpStmt(
+                      AddopTermListTerm(
+                        TermStmtOnly(
+                          CharConstF(
+                           e
+                          ) [CharConstF]
+                        ) [TermStmtOnly]
+                      ) [AddopTermListTerm]
+                    ) [TermExpStmt]
+                  ) [NoNumPrint]
+                ) [MatchedStmt]
+              ) [Statements]
+            ) [StatementListLR]
+          ) [IfCond]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:37:25,498 - ===================================
+INFO  20:37:25,505 - Parsiranje uspesno zavrseno

@@ -1,0 +1,17 @@
+INFO  17:50:51,817 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\test302.mj
+INFO  17:50:51,849 - #2 program
+INFO  17:50:51,849 - #20 test302
+INFO  17:50:51,849 - #17 const
+INFO  17:50:51,850 - #20 int
+INFO  17:50:51,850 - #20 jedan
+INFO  17:50:51,850 - #12 =
+INFO  17:50:51,851 - #19 1
+INFO  17:50:51,851 - #5 ;
+INFO  17:50:51,851 - #20 int
+INFO  17:50:51,852 - #20 i
+INFO  17:50:51,853 - #8 ,
+INFO  17:50:51,853 - #20 j
+INFO  17:50:51,853 - #5 ;
+ERROR 17:50:51,853 - 
+Sintaksna greska na liniji 7
+ERROR 17:50:51,853 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7

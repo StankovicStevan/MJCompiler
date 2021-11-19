@@ -1,0 +1,155 @@
+INFO  11:31:07,141 - Compiling source file: D:\Faks\4. godina\PP1\PP1_MojProjekat\workspace\MJCompiler\test\program.mj
+INFO  11:31:07,208 - #2 program
+INFO  11:31:07,208 - #20 MJProgram
+INFO  11:31:07,208 - #20 int
+INFO  11:31:07,210 - #20 a
+INFO  11:31:07,211 - #8 ,
+INFO  11:31:07,211 - #20 b
+INFO  11:31:07,211 - #8 ,
+INFO  11:31:07,211 - #20 c
+INFO  11:31:07,211 - #5 ;
+INFO  11:31:07,212 - #3 {
+INFO  11:31:07,213 - #13 void
+INFO  11:31:07,214 - #20 main
+INFO  11:31:07,215 - #6 (
+INFO  11:31:07,216 - #7 )
+INFO  11:31:07,216 - #20 int
+INFO  11:31:07,217 - #20 x
+INFO  11:31:07,217 - #8 ,
+INFO  11:31:07,217 - #20 y
+INFO  11:31:07,217 - #8 ,
+INFO  11:31:07,217 - #20 z
+INFO  11:31:07,217 - #5 ;
+INFO  11:31:07,217 - #3 {
+INFO  11:31:07,218 - #20 x
+INFO  11:31:07,219 - #12 =
+INFO  11:31:07,219 - #6 (
+INFO  11:31:07,220 - #19 2
+INFO  11:31:07,220 - #11 +
+INFO  11:31:07,220 - #20 y
+INFO  11:31:07,221 - #7 )
+INFO  11:31:07,221 - #42 *
+INFO  11:31:07,222 - #19 5
+INFO  11:31:07,223 - #5 ;
+INFO  11:31:07,223 - #4 }
+INFO  11:31:07,224 - #4 }
+INFO  11:31:07,228 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclListsStmt(
+    NoDeclLists(
+    ) [NoDeclLists]
+    VarDeclListD(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclMulti(
+          VarDeclMulti(
+            VarDeclSingle(
+              VarDeclIdentStmt(
+               a
+              ) [VarDeclIdentStmt]
+            ) [VarDeclSingle]
+            VarDeclIdentStmt(
+             b
+            ) [VarDeclIdentStmt]
+          ) [VarDeclMulti]
+          VarDeclIdentStmt(
+           c
+          ) [VarDeclIdentStmt]
+        ) [VarDeclMulti]
+      ) [VarDecl]
+    ) [VarDeclListD]
+  ) [DeclListsStmt]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidMethodTypeName(
+      ) [VoidMethodTypeName]
+      MethodName(
+       main
+      ) [MethodName]
+      NoFormParam(
+      ) [NoFormParam]
+      VarDeclListHelpStmt(
+        NoVarDeclListHelpStmt(
+        ) [NoVarDeclListHelpStmt]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclMulti(
+            VarDeclMulti(
+              VarDeclSingle(
+                VarDeclIdentStmt(
+                 x
+                ) [VarDeclIdentStmt]
+              ) [VarDeclSingle]
+              VarDeclIdentStmt(
+               y
+              ) [VarDeclIdentStmt]
+            ) [VarDeclMulti]
+            VarDeclIdentStmt(
+             z
+            ) [VarDeclIdentStmt]
+          ) [VarDeclMulti]
+        ) [VarDecl]
+      ) [VarDeclListHelpStmt]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          DesignatorStmt(
+            AssignopExpr(
+              DesignatorSingle(
+               x
+              ) [DesignatorSingle]
+              Equalop(
+              ) [Equalop]
+              TermExpStmt(
+                AddopTermListTerm(
+                  TermStmt(
+                    TermStmtOnly(
+                      ExprFactor(
+                        TermExpStmt(
+                          AddopTermListStmt(
+                            AddopTermListTerm(
+                              TermStmtOnly(
+                                NumConstF(
+                                 2
+                                ) [NumConstF]
+                              ) [TermStmtOnly]
+                            ) [AddopTermListTerm]
+                            AddopPlus(
+                            ) [AddopPlus]
+                            TermStmtOnly(
+                              NoDesignatorAct(
+                                DesignatorSingle(
+                                 y
+                                ) [DesignatorSingle]
+                              ) [NoDesignatorAct]
+                            ) [TermStmtOnly]
+                          ) [AddopTermListStmt]
+                        ) [TermExpStmt]
+                      ) [ExprFactor]
+                    ) [TermStmtOnly]
+                    Multiplyop(
+                    ) [Multiplyop]
+                    NumConstF(
+                     5
+                    ) [NumConstF]
+                  ) [TermStmt]
+                ) [AddopTermListTerm]
+              ) [TermExpStmt]
+            ) [AssignopExpr]
+          ) [DesignatorStmt]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  11:31:07,229 - ===================================
+INFO  11:31:07,239 - Parsiranje uspesno zavrseno
